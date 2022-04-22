@@ -6,12 +6,12 @@ import {getAuth} from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCKVCPdqxTeYKootwX8sE_4iX2nPCUWQG4",
-  authDomain: "genius-car-service-367ee.firebaseapp.com",
-  projectId: "genius-car-service-367ee",
-  storageBucket: "genius-car-service-367ee.appspot.com",
-  messagingSenderId: "80496472007",
-  appId: "1:80496472007:web:dc546bc67c2b945a56b3e2"
+  apiKey: "AIzaSyB-2YrYS7OFA3QbsIsJsOX1P-Jmu251eFQ",
+  authDomain: "ema-john-auth-614e9.firebaseapp.com",
+  projectId: "ema-john-auth-614e9",
+  storageBucket: "ema-john-auth-614e9.appspot.com",
+  messagingSenderId: "769801549395",
+  appId: "1:769801549395:web:0661fd4fec4315bc58f8a6"
 };
 
 // Initialize Firebase
